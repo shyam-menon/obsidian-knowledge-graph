@@ -10,3 +10,6 @@ Connections:
 - [[Broker]] — TMC delegates system-to-system orchestration (ITSM, SAP) to Broker
 - [[ITSM ServiceNow]] — TMC feeds contract and account data into ITSM for asset management
 - [[DMS]] — DMS generates the TTSAP package that TMC uses for MP Flex onboarding
+
+## Tags
+#systems

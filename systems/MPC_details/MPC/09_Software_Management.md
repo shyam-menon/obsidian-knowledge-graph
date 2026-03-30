@@ -40,3 +40,7 @@ Pricing is shown in the Software Pricing Table within [[10_Pricing]]:
 
 ## Requirements
 <!-- Obsidian backlinks will auto-populate here -->
+
+
+## Tags
+#systems

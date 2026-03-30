@@ -12,3 +12,6 @@ Connections:
 - [[MSCC]] — MSCC queries ES for device, billing, and contract data for the customer portal
 - [[MPC]] — MPC queries ES for cost center, billing model, and contract account information
 - [[Paladin]] — ES uses Paladin for authentication and authorization on all requests
+
+## Tags
+#systems

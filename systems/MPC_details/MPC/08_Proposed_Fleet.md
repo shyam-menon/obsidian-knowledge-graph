@@ -56,3 +56,7 @@ Devices flagged EOSL have an end-of-service date within the contract term. Three
 
 ## Requirements
 <!-- Obsidian backlinks will auto-populate here -->
+
+
+## Tags
+#systems

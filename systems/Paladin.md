@@ -12,3 +12,6 @@ Connections:
 - [[MSCC]] — DCC uses Paladin (STS) for customer session token management
 - [[Fleet Operations]] — FleetOps uses Paladin for role-based access across 7 user roles
 - [[CARD]] — CARD web application authenticates users via Paladin
+
+## Tags
+#systems

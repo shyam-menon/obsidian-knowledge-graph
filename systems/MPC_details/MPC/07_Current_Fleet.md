@@ -48,3 +48,7 @@ After importing, the **Current Costs** tab shows cost summary per device model:
 
 ## Requirements
 <!-- Obsidian backlinks will auto-populate here -->
+
+
+## Tags
+#systems

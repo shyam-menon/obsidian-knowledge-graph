@@ -90,3 +90,7 @@ See [[09_Software_Management]] for software pricing calculation detail.
 
 ## Requirements
 <!-- Obsidian backlinks will auto-populate here -->
+
+
+## Tags
+#systems

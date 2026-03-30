@@ -48,3 +48,7 @@ Use [[_Requirement_Template]] when starting a new analysis.
 **Business models:** PMPS (Resell/Agent) · CMPS · MP Flex
 **Exception response statuses:** HP Approved · HP Alternate Approved · HP Rejected
 **Support:** mssupport@hp.com · www.mssupport.hp.com
+
+
+## Tags
+#systems

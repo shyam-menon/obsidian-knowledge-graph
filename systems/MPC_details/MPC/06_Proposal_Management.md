@@ -73,3 +73,7 @@ A Proposal is a version of an Opportunity that contains the proposed fleet and c
 
 ## Requirements
 <!-- Obsidian backlinks will auto-populate here -->
+
+
+## Tags
+#systems

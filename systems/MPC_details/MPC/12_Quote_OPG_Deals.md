@@ -67,3 +67,7 @@ Deal recipients are configured at: **Account → Partner Details → Company →
 
 ## Requirements
 <!-- Obsidian backlinks will auto-populate here -->
+
+
+## Tags
+#systems

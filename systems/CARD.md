@@ -10,3 +10,6 @@ Connections:
 - [[ITSM ServiceNow]] — ITSM asset and contract data informs CARD's installed base calculations
 - [[MPC]] — MPC deal data (via DART) flows into CARD as the signed deal log
 - [[Paladin]] — CARD web application uses Paladin for authentication
+
+## Tags
+#systems

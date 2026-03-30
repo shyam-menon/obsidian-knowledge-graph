@@ -11,3 +11,6 @@ Connections:
 - [[Device Connectivity]] — FleetOps performs remote operations via JAM and SDS
 - [[MSCC]] —  FleetOps and DCC share fleet data so internal and customer views stay in sync
 - [[Enablement Service]] — FleetOps queries ES for fleet data via GraphQL
+
+## Tags
+#systems

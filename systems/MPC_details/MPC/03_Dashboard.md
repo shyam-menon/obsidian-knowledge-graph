@@ -36,3 +36,7 @@ None — dashboard is a read-only view aggregating data from within MPC.
 
 ## Requirements
 <!-- Obsidian backlinks will auto-populate here -->
+
+
+## Tags
+#systems

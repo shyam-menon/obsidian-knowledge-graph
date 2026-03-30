@@ -9,3 +9,6 @@ Connections:
 - [[UsageService]] — Fulfillment Service receives replenishment triggers from Usage Service
 - [[Enablement Service]] — Fulfillment Service queries and updates supply-related fleet data via ES
 - [[MSCC] — Supply order status can be viewed by customers through DCC
+
+## Tags
+#systems

@@ -11,3 +11,6 @@ Connections:
 - [[TMC]] — DMS outputs a TTSAP package that TMC uses to initiate onboarding
 - [[CARD]] — DMS sends MP Flex deal details to CARD for profitability tracking
 - [[Broker]] — Broker orchestrates the downstream steps after DMS hands off the package
+
+## Tags
+#systems

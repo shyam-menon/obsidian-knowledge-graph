@@ -68,3 +68,7 @@ Deal Win Notification recipients are configured in [[16_Partner_Settings]].
 
 ## Requirements
 <!-- Obsidian backlinks will auto-populate here -->
+
+
+## Tags
+#systems

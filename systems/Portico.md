@@ -11,3 +11,6 @@ Connections:
 - [[Fleet Operations]] — Portico pulls live asset details from Fleet Operations for accurate design inputs
 - [[Enablement Service]] — Portico queries BIRD (via fleet ops integration) for historical usage data
 - [[Paladin]] — Portico uses Paladin for user authentication and role-based access
+
+## Tags
+#systems

@@ -12,3 +12,6 @@ This represents the architecture for multi-tenant AI knowledge systems.
 
 ## Related Sources
 - [[Agentic RAG (article)]]
+
+## Tags
+#systems

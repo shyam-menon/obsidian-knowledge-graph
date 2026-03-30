@@ -10,3 +10,6 @@ Connections:
 - [[Fleet Operations]] — FleetOps uses JAM and SDS for remote device operations and diagnostics
 - [[MPC]] — MPC triggers device registration and de-registration in JAM during onboarding
 - [[Paladin]] — Device services use Paladin for authentication
+
+## Tags
+#systems

@@ -11,3 +11,6 @@ Connections:
 - [[Fleet Operations]] — Usage Service and FleetOps exchange device data and operational commands
 - [[Enablement Service]] — Usage Service publishes processed data to ES for cross-system consumption
 - [[Paladin]] — Usage Service uses Paladin for authentication and authorization
+
+## Tags
+#systems

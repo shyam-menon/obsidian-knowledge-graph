@@ -11,3 +11,6 @@ Connections:
 - [[MSCC]] — ITSM broadcasts device and fleet data changes to DCC via SNS
 - [[Enablement Service]] — ITSM publishes fleet updates to Enablement Service for cross-system consumption
 - [[CARD]] — ITSM asset data contributes to CARD profitability reporting
+
+## Tags
+#systems

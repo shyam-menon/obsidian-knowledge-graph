@@ -10,3 +10,6 @@ Connections:
 - [[ITSM ServiceNow]] — Broker pushes account, fleet, device, and contract data into ITSM
 - [[DMS]] — DMS feeds MP Flex deal packages that Broker processes for onboarding
 - [[Paladin]] — Broker uses Paladin for service-to-service authentication
+
+## Tags
+#systems
