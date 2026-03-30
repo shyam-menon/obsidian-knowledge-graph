@@ -14,7 +14,7 @@
 | Non-Functional Requirements | #nfr | Non-Functional.md |
 | System Design Radar (central MOC hub) | #designradar | System Design Radar.md |
 | HP Systems (product docs) | #systems | _(no MOC — lives in systems/ folder)_ |
-| CBA Tool (product docs) | #cba | _(no MOC — lives in systems/ folder)_ |
+| Contracts, Billing & Automation (HP project) | #cba | _(no MOC — lives in systems/ folder)_ |
 
 **Note:** `#designradar` is the central hub tag applied to the System Design Radar MOC,
 which links out to all other architecture and system design MOC notes. Only the top-level
@@ -104,14 +104,14 @@ radar index note should carry this tag — not individual notes.
 - Bidirectional Streaming
 - Language Agnosticism (Polyglot Support)
 
-### React Ecosystem (#frontend → Languages, libraries & frameworks.md)
+### React Ecosystem (#llf → Languages, libraries & frameworks.md)
 - React library
 - React Component Model
 - JSX (JavaScript XML)
 - React 19 compiler
 - Declarative UI
 
-### Vite & Build Tools (#frontend → Languages, libraries & frameworks.md)
+### Vite & Build Tools (#llf → Languages, libraries & frameworks.md)
 - Native ESM Serving (Vite)
 - Vite Hot Module Replacement (HMR)
 - Rolldown Engine
@@ -127,7 +127,7 @@ _(add notes here as they are created)_
 _(add notes here as they are created)_
 
 ### Languages, Libraries & Frameworks (#llf → Languages, libraries & frameworks.md)
-_(add notes here as they are created — React/Vite notes currently tagged #frontend should migrate to #llf)_
+_(see React Ecosystem and Vite & Build Tools clusters above)_
 
 ### DevOps & Infrastructure (#devops → DevOps & Infrastructure.md)
 _(add notes here as they are created)_
