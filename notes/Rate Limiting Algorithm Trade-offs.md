@@ -7,4 +7,7 @@
 **Connections:**
 
 - [[Rate Limiting Covers Both Attacks and Accidents]]
-- [[API Threat Model]]
+- [[Anomaly Detection from Traffic Baselines]]
+- [[API security 101]]
+
+Up: [[Security & auth]]

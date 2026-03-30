@@ -13,14 +13,18 @@ Why it matters:
 - Supports multi-step problem solving
 
 Connections:
-- [[RAG Architecture]]
+- [[RAG architecture]]
 - [[Vector search]]
 - [[Standard RAG's One-Shot Problem]]
 - [[Agents]]
 - [[Agentic RAG Control Loop]]
-- [[Tool Use in Agents]]
-- [[Planning and Reasoning]]
-- [[Evaluation Loops]]
+- [[Agentic RAG Latency-Cost Trade-off]]
+- [[When to Use Agentic RAG vs. Standard RAG]]
+- [[Multi-Agent Orchestration in RAG]]
+- [[ReAct Framework]]
+- [[Evaluation loops]]
+
+Up: [[AI Systems]]
 
 ## Sources
 https://blog.bytebytego.com/p/how-agentic-rag-works

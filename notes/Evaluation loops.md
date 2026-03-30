@@ -13,4 +13,10 @@ Patterns:
 - Automated scoring
 
 Links:
-- [[RAG Architecture]]
+- [[RAG architecture]]
+- [[Evaluator Paradox]]
+- [[Self-Evaluation in RAG]]
+- [[Agentic RAG]]
+- [[Retrieval False Confidence]]
+
+Up: [[AI Systems]]

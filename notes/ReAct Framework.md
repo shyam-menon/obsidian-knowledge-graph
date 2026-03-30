@@ -6,6 +6,10 @@
 
 **Connections:**
 
+- [[Agents]]
+- [[Agentic RAG]]
 - [[Agentic RAG Control Loop]]
 - [[Multi-Agent Orchestration in RAG]]
-- [[Query Refinement as a Pre- and Post-Retrieval Strategy]]
+- [[Pipeline-to-Loop as a General AI Architecture Pattern]]
+
+Up: [[AI Systems]]

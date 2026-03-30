@@ -8,5 +8,10 @@ Key factors:
 - Cost
 
 Used in:
-- [[Vector Search]]
-- [[RAG Architecture]]
+- [[Vector search]]
+- [[RAG architecture]]
+- [[Chunking strategies]]
+- [[Retrieval False Confidence]]
+- [[Semantic Caching in RAG]]
+
+Up: [[AI Systems]]
