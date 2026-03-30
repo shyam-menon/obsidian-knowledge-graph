@@ -11,3 +11,6 @@
 - [[Authentication and Authorization are Independent Checks]]
 - [[JWT and OAuth 2.0 for Scoped Access]]
 - [[Principle of Least Privilege]]
+
+## Tags
+#security

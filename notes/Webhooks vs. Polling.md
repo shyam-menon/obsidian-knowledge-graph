@@ -11,3 +11,6 @@
 - [[OAuth 2.0 — Delegated Authorization]]
 - [[Bulk Data Transfer Pattern]]
 - [[Event-Driven Architecture]]
+
+## Tags
+#api

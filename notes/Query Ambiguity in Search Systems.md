@@ -9,3 +9,6 @@
 - [[Agentic RAG Control Loop]]
 - [[Standard RAG's One-Shot Problem]]
 - [[Query Ambiguity in Search Systems]]
+
+## Tags
+#ai

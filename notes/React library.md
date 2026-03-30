@@ -39,3 +39,7 @@ React is a library for building user interfaces through reusable components and 
 [[Vite Hot Module Replacement (HMR)]]
 [[JSX (JavaScript XML)]]
 [[React-Vite Plugin Integration]]
+
+
+## Tags
+#frontend

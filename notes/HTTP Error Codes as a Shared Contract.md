@@ -11,3 +11,6 @@
 - [[Structured Error Response Design]]
 - [[API Contract Design]]
 - [[Consumer-Driven API Design]]
+
+## Tags
+#api

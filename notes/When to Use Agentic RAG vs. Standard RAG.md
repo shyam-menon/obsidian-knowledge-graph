@@ -9,3 +9,6 @@
 - [[Agentic RAG Latency-Cost Trade-off]]
 - [[Standard RAG's One-Shot Problem]]
 - [[Agentic RAG Control Loop]]
+
+## Tags
+#ai

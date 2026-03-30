@@ -11,3 +11,6 @@
 - [[KISS Principle in API Design]]
 - [[Consumer-Driven API Design]]
 - [[REST URL Design Conventions]]
+
+## Tags
+#api

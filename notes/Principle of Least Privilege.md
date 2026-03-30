@@ -10,3 +10,6 @@
 - [[API Keys as Long Passwords]]
 - [[Broken Object Level Authorization (BOLA)]]
 - [[Attribute-Based Access Control (ABAC)]]
+
+## Tags
+#security

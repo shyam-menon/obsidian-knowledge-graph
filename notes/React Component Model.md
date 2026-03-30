@@ -7,3 +7,6 @@
 **Connections:**
 - [[Declarative UI]]    
 - [[One-Way Data Flow]]
+
+## Tags
+#frontend

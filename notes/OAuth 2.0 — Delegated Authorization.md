@@ -11,3 +11,6 @@
 - [[OpenID Connect — Identity on Top of OAuth]]
 - [[API Keys — Simple Stateless Authentication]]
 - [[Webhooks vs. Polling]]
+
+## Tags
+#security

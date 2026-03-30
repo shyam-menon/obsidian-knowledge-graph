@@ -11,3 +11,6 @@
 - [[API security 101]]
 
 Up: [[Security & auth]]
+
+## Tags
+#security

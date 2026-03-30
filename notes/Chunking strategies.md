@@ -21,3 +21,6 @@ Links:
 - [[Standard RAG's One-Shot Problem]]
 
 Up: [[AI Systems]]
+
+## Tags
+#ai

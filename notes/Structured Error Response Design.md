@@ -10,3 +10,6 @@
 - [[HTTP Error Codes as a Shared Contract]]
 - [[API Documentation Standards]]
 - [[Developer Experience (DX) in APIs]]
+
+## Tags
+#api

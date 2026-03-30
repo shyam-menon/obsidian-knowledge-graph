@@ -13,3 +13,6 @@
 - [[Strict Service Contracts]]
 - [[Bidirectional Streaming]]
 - [[Language Agnosticism (Polyglot Support)]]
+
+## Tags
+#api

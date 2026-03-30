@@ -9,3 +9,6 @@
 - [[Standard RAG's One-Shot Problem]]
 - [[Self-Evaluation in RAG]]
 - [[Evaluator Paradox]]
+
+## Tags
+#ai

@@ -9,3 +9,6 @@
 - [[Agentic RAG Latency-Cost Trade-off]]
 - [[Standard RAG's One-Shot Problem]]
 - [[Query Refinement as a Pre- and Post-Retrieval Strategy]]
+
+## Tags
+#ai

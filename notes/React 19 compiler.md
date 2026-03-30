@@ -7,3 +7,6 @@
 **Connections:**
 - [[React-Vite Plugin Integration]]   
 - [[Declarative UI ]]
+
+## Tags
+#frontend

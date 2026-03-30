@@ -7,3 +7,6 @@
 **Connections:**
 - [[React Component Model]]
 - [[State Management Foundations]]
+
+## Tags
+#frontend

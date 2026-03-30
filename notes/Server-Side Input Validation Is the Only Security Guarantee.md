@@ -11,3 +11,6 @@
 - [[Allowlisting vs. Blocklisting for Input Validation]]
 - [[API Threat Model]]
 - [[Authentication and Authorization are Independent Checks]]
+
+## Tags
+#security

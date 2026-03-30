@@ -11,3 +11,6 @@
 - [[REST URL Design Conventions]]
 - [[API Contract Design]]
 - [[Backward Compatibility]]
+
+## Tags
+#api

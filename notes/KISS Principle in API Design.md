@@ -9,3 +9,6 @@
 - [[API Granularity — The Medium-Grained Sweet Spot]]
 - [[Developer Experience (DX) in APIs]]
 - [[Consumer-Driven API Design]]
+
+## Tags
+#api

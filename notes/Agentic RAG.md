@@ -31,3 +31,6 @@ https://blog.bytebytego.com/p/how-agentic-rag-works
 
 ## Related Systems:
 - [[AIaaS Platform]]
+
+## Tags
+#ai

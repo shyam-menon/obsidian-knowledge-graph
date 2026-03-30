@@ -13,3 +13,6 @@
 - [[Pipeline-to-Loop as a General AI Architecture Pattern]]
 
 Up: [[AI Systems]]
+
+## Tags
+#ai

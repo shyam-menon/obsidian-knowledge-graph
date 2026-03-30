@@ -8,3 +8,6 @@
 
 **Connections:**
 - [[React Component Model]]
+
+## Tags
+#frontend

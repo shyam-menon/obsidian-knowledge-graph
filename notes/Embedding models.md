@@ -15,3 +15,6 @@ Used in:
 - [[Semantic Caching in RAG]]
 
 Up: [[AI Systems]]
+
+## Tags
+#ai

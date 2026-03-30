@@ -11,3 +11,6 @@
 - [[REST URL Design Conventions]]
 - [[HTTP Error Codes as a Shared Contract]]
 - [[Idempotency in API Design]]
+
+## Tags
+#api

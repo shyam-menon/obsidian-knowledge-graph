@@ -8,3 +8,6 @@
 
 - [[OAuth 2.0 — Delegated Authorization]]
 - [[API Keys — Simple Stateless Authentication]]
+
+## Tags
+#security

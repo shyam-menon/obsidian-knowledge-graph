@@ -11,3 +11,6 @@
 - [[Anomaly Detection from Traffic Baselines]]
 - [[API Threat Model]]
 - [[Rate Limiting Covers Both Attacks and Accidents]]
+
+## Tags
+#observability

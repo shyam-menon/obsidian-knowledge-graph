@@ -10,3 +10,6 @@
 
 - [[OAuth 2.0 — Delegated Authorization]]
 - [[OpenID Connect — Identity on Top of OAuth]]
+
+## Tags
+#security

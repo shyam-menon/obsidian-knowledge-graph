@@ -11,3 +11,6 @@
 - [[Agentic RAG Control Loop]]
 - [[When to Use Agentic RAG vs. Standard RAG]]
 - [[Semantic Caching in RAG]]
+
+## Tags
+#ai

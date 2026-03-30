@@ -12,3 +12,6 @@
 - [[Authentication and Authorization are Independent Checks]]
 - [[Principle of Least Privilege]]
 - [[OAuth 2.0 — Delegated Authorization]]
+
+## Tags
+#security

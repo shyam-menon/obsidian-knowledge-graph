@@ -9,3 +9,6 @@
 - [[Pagination Strategies and Their Trade-offs]]
 - [[Partial Response and Field Selection]]
 - [[REST URL Design Conventions]]
+
+## Tags
+#api

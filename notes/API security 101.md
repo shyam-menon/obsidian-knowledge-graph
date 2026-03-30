@@ -97,3 +97,6 @@ API security is not a checklist — it is a threat-response mapping. Four core t
 https://blog.bytebytego.com/p/how-to-implement-api-security
 ## Systems
 [[AIaaS Platform]]
+
+## Tags
+#security

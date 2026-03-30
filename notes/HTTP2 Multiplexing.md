@@ -7,3 +7,6 @@
 **Connections:**
 - [[TCP Persistent Connections]]    
 - [[Network Latency Optimization]]
+
+## Tags
+#api

@@ -9,3 +9,6 @@
 - [[Developer Experience (DX) in APIs]]
 - [[API Keys — Simple Stateless Authentication]]
 - [[Bulk Data Transfer Pattern]]
+
+## Tags
+#api

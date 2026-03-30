@@ -11,3 +11,6 @@
 - [[Authentication and Authorization are Independent Checks]]
 - [[Role-Based Access Control (RBAC)]]
 - [[Principle of Least Privilege]]
+
+## Tags
+#security

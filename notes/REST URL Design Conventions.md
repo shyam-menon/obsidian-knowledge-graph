@@ -9,3 +9,6 @@
 - [[API Granularity — The Medium-Grained Sweet Spot]]
 - [[HTTP Method Semantics]]
 - [[API Versioning Strategy]]
+
+## Tags
+#api

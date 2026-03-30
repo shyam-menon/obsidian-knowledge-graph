@@ -9,3 +9,6 @@
 - [[Query Parameter Conventions]]
 - [[Pagination Strategies and Their Trade-offs]]
 - [[API Granularity — The Medium-Grained Sweet Spot]]
+
+## Tags
+#api

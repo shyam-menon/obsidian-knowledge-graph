@@ -11,3 +11,6 @@
 - [[Query Parameter Conventions]]
 - [[Partial Response and Field Selection]]
 - [[Bulk Data Transfer Pattern]]
+
+## Tags
+#api

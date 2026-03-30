@@ -8,3 +8,6 @@
 
 - [[React 19 compiler]]    
 - [[Vite Hot Module Replacement (HMR)]]
+
+## Tags
+#frontend
