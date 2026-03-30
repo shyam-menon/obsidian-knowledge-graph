@@ -8,21 +8,27 @@ Over the years, API protocols have evolved alongside software development, shift
 
 The right API protocol is critical for performance, security, and scalability. Developers need to consider the following factors:
 
-- **Performance Needs:** gRPC is faster than REST but requires more setup. Web Sockets provide real-time interactions, but SSE might be a simpler alternative for unidirectional updates.
+- **Performance Needs:** gRPC is faster than REST but requires more setup. WebSockets provide real-time interactions, but SSE might be a simpler alternative for unidirectional updates.
 - **Security Considerations:** SOAP offers built-in security (WS-Security) to enforce confidentiality and authentication procedures for SOAP messaging. Webhooks require additional security mechanisms, such as signature validation.
 - **Ease of Implementation:** REST is easier to set up than GraphQL, but GraphQL provides more control over data fetching.
 - **Scalability:** REST and GraphQL scale well, but gRPC is more efficient for microservices due to its lower latency.
 
-## Notes
+## Request-Response Protocols
+- [[REST]]
+- [[SOAP]]
+- [[GraphQL]]
 - [[gRPC]]
 - [[Protocol Buffers (Protobuf)]]
-- [[HTTP2 Multiplexing]]
-- [[Bidirectional Streaming]]
-- [[Language Agnosticism (Polyglot Support)]]
 
-## Future Notes to Write
-- REST
-- GraphQL
-- WebSockets
-- Server-Sent Events
-- SOAP
+## Real-Time & Streaming Protocols
+- [[WebSockets]]
+- [[Server-Sent Events (SSE)]]
+- [[Bidirectional Streaming]]
+- [[HTTP2 Multiplexing]]
+
+## Event-Driven Protocols
+- [[Webhooks]]
+- [[Webhooks vs. Polling]]
+
+## Protocol Design Concepts
+- [[Language Agnosticism (Polyglot Support)]]

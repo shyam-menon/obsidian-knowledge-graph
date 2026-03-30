@@ -98,7 +98,13 @@ radar index note should carry this tag — not individual notes.
 - SDK Design Best Practices
 
 ### Protocols (#api → API Integration Patterns.md)
+- REST
+- GraphQL
 - gRPC
+- SOAP
+- WebSockets
+- Server-Sent Events (SSE)
+- Webhooks
 - Protocol Buffers (Protobuf)
 - HTTP2 Multiplexing
 - Bidirectional Streaming

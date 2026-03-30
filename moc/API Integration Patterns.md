@@ -21,7 +21,13 @@ This is a map of API design, patterns, and protocol concepts.
 - [[SDK Design Best Practices]]
 
 ## Protocols
+- [[REST]]
+- [[GraphQL]]
 - [[gRPC]]
+- [[SOAP]]
+- [[WebSockets]]
+- [[Server-Sent Events (SSE)]]
+- [[Webhooks]]
 - [[Protocol Buffers (Protobuf)]]
 - [[HTTP2 Multiplexing]]
 - [[Bidirectional Streaming]]
