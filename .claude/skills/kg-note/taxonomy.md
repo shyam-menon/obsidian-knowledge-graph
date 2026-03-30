@@ -7,9 +7,18 @@
 | AI & Machine Learning | #ai | AI systems.md |
 | Security & Auth | #security | Security & auth.md |
 | APIs & Integration | #api | API Integration Patterns.md |
-| Frontend | #frontend | Languages, libraries & frameworks.md |
-| Observability | #observability | Non-Functional.md |
+| Languages, Libraries & Frameworks | #llf | Languages, libraries & frameworks.md |
+| Architecture & Design | #arc | Architecture & Design.md |
+| Data & Databases | #data | Data & Databases.md |
+| DevOps & Infrastructure | #devops | DevOps & Infrastructure.md |
+| Non-Functional Requirements | #nfr | Non-Functional.md |
+| System Design Radar (central MOC hub) | #designradar | System Design Radar.md |
 | HP Systems (product docs) | #systems | _(no MOC — lives in systems/ folder)_ |
+| CBA Tool (product docs) | #cba | _(no MOC — lives in systems/ folder)_ |
+
+**Note:** `#designradar` is the central hub tag applied to the System Design Radar MOC,
+which links out to all other architecture and system design MOC notes. Only the top-level
+radar index note should carry this tag — not individual notes.
 
 ---
 
@@ -108,8 +117,20 @@
 - Rolldown Engine
 - React-Vite Plugin Integration
 
-### Observability (#observability → Non-Functional.md)
+### Non-Functional Requirements (#nfr → Non-Functional.md)
 - Monitoring and Logging for Retroactive Visibility
+
+### Architecture & Design (#arc → Architecture & Design.md)
+_(add notes here as they are created)_
+
+### Data & Databases (#data → Data & Databases.md)
+_(add notes here as they are created)_
+
+### Languages, Libraries & Frameworks (#llf → Languages, libraries & frameworks.md)
+_(add notes here as they are created — React/Vite notes currently tagged #frontend should migrate to #llf)_
+
+### DevOps & Infrastructure (#devops → DevOps & Infrastructure.md)
+_(add notes here as they are created)_
 
 ### HP Systems (#systems → systems/ folder)
 - AIaaS Platform
