@@ -9,6 +9,7 @@
 | APIs & Integration | #api | API Integration Patterns.md |
 | Frontend | #frontend | Languages, libraries & frameworks.md |
 | Observability | #observability | Non-Functional.md |
+| HP Systems (product docs) | #systems | _(no MOC — lives in systems/ folder)_ |
 
 ---
 
@@ -109,3 +110,25 @@
 
 ### Observability (#observability → Non-Functional.md)
 - Monitoring and Logging for Retroactive Visibility
+
+### HP Systems (#systems → systems/ folder)
+- AIaaS Platform
+- Broker
+- CARD
+- CBA Tool Capabilities & Integrations
+- DMS
+- Device Connectivity
+- Enablement Service
+- Fleet Operations
+- Fulfillment Service
+- ITSM ServiceNow
+- MPC
+- MSCC
+- Paladin
+- Portico
+- TMC
+- UsageService
+
+**Note:** Systems notes live in `systems/` not `notes/`. They are product documentation,
+not atomic knowledge notes. The /kg-note skill should not apply sibling-link or MOC-update
+rules to these files — only the domain tag check applies.
