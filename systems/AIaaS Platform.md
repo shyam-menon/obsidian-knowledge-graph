@@ -13,5 +13,10 @@ This represents the architecture for multi-tenant AI knowledge systems.
 ## Related Sources
 - [[Agentic RAG (article)]]
 
+## Applicable notes
+- [[API security 101]]
+- [[REST]]
+- [[RAG architecture]]
+
 ## Tags
 #systems

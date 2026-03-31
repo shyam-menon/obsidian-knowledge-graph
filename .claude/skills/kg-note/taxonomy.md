@@ -110,6 +110,12 @@ radar index note should carry this tag — not individual notes.
 - Bidirectional Streaming
 - Language Agnosticism (Polyglot Support)
 
+### Python & Frameworks (#llf → Languages, libraries & frameworks.md)
+- Python
+- Django
+- Flask
+- FastAPI
+
 ### React Ecosystem (#llf → Languages, libraries & frameworks.md)
 - React library
 - React Component Model
