@@ -10,3 +10,7 @@
 
 ## Tags
 #llf
+
+## Links 
+https://claude.ai/public/artifacts/8237dbe6-437f-472b-bd5a-32059d39b238
+https://gemini.google.com/share/c5ad75390a8d

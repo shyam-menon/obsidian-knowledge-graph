@@ -32,3 +32,7 @@ The right API protocol is critical for performance, security, and scalability. D
 
 ## Protocol Design Concepts
 - [[Language Agnosticism (Polyglot Support)]]
+
+## Links
+- Visual comparison of API protocols - https://claude.ai/share/526b9c8a-c54f-478a-9db5-998572f3a0bf
+- 

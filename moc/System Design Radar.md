@@ -1,7 +1,7 @@
 Title: System Design Radar
 
 ## AI Engineering
-- [[AI systems]]- 
+- [[AI systems]]
 ## Architecture & Design
 - [[Architecture & Design]]
 
