@@ -20,6 +20,7 @@ This is a map of core AI system concepts.
 - [[Evaluation loops]]
 - [[Evaluator Paradox]]
 - [[Self-Evaluation in RAG]]
+- [[RAG Evaluation with DeepEval]]
 
 ## Agentic RAG
 - [[Agentic RAG]]
