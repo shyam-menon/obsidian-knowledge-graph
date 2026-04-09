@@ -19,6 +19,7 @@ This represents the architecture for multi-tenant AI knowledge systems.
 - [[RAG architecture]]
 - [[RAG Evaluation with DeepEval]]
 - [[RAG approaches - Built-in vs Custom]]
+- [[Contextual Relevancy — Analysis and Improvement]]
 ## Links
 - Supporting Visio and video files in RAG - https://chatgpt.com/share/69cc9b51-50e4-83a6-9aea-9807eb8423b0
 - Supporting structured data in RAG - https://chatgpt.com/share/69cc9b84-555c-83a6-bc8f-708c825d3fda
