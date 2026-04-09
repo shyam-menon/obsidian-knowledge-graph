@@ -29,5 +29,8 @@ This is a map of security and authentication concepts.
 - [[Rate Limiting Algorithm Trade-offs]]
 - [[Anomaly Detection from Traffic Baselines]]
 
+## Security practices
+[[SRS vs STS]]
+
 ## Tags
 #security
