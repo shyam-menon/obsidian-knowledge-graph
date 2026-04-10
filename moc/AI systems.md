@@ -7,6 +7,7 @@ This is a map of core AI system concepts.
 
 ## RAG Core
 - [[RAG architecture]]
+- [[RAG approaches - Built-in vs Custom]]
 - [[Chunking strategies]]
 - [[Embedding models]]
 - [[Vector search]]
@@ -21,6 +22,8 @@ This is a map of core AI system concepts.
 - [[Evaluator Paradox]]
 - [[Self-Evaluation in RAG]]
 - [[RAG Evaluation with DeepEval]]
+- [[Variability in RAG evals]]
+- [[Contextual Relevancy — Analysis and Improvement]]
 
 ## Agentic RAG
 - [[Agentic RAG]]

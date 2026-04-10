@@ -37,3 +37,15 @@ Vector search with approximate nearest-neighbor algorithms can return slightly d
 |Add `expected_output` to pin ground truth|`TestCase` definition|
 
 The most impactful fix is **deterministic temperatures on both the judge and the answer model**. The ambiguous source content is a deeper issue that will keep causing metric disagreement regardless of temperature.
+
+Links:
+- [[Evaluation loops]]
+- [[Evaluator Paradox]]
+- [[Self-Evaluation in RAG]]
+- [[RAG Evaluation with DeepEval]]
+- [[Contextual Relevancy — Analysis and Improvement]]
+
+Up: [[AI Systems]]
+
+## Tags
+#ai

@@ -352,6 +352,8 @@ Ultimately, the most successful enterprise chatbots are those built on a foundat
 - [[Evaluation loops]]
 - [[Evaluator Paradox]]
 - [[Self-Evaluation in RAG]]
+- [[Variability in RAG evals]]
+- [[Contextual Relevancy — Analysis and Improvement]]
 - [[Chunking strategies]]
 - [[Vector search]]
 - [[Agentic RAG]]

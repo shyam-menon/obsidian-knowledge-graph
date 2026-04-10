@@ -65,3 +65,8 @@ Recommendation: Adopt Aurora PostgreSQL as the primary database. It handles all 
 **Conclusion on the cost:**
 
 It would take around ~340$ to create a new instance for Aurora postgres, but we already have the required infra as part of Astitva, so the same infra can be utilized which in turn saves this cost.
+
+Up: [[Data & Databases]]
+
+## Tags
+#data

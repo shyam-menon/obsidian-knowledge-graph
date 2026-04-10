@@ -622,11 +622,17 @@ Step 5: Apply the decision rule
 ## Connections
 - [[AIaaS Platform]]
 - [[RAG architecture]]
+- [[Chunking strategies]]
+- [[Vector search]]
+- [[Standard RAG's One-Shot Problem]]
 - [[Agentic RAG]]
 - [[Evaluation loops]]
 - [[RAG Evaluation with DeepEval]]
 
-Up: [[AIaaS Platform]]
+Up: [[AI Systems]]
+
+## Tags
+#ai
 
 ## Tags
 #systems

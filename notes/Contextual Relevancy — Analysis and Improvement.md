@@ -79,3 +79,65 @@ The score (0.64) is still below the passing threshold (0.70). The remaining gap 
 2. **Enable hybrid search (Option 3)** — Low effort, can be added alongside reranking as a complementary improvement.
     
 3. **Tune `MIN_PASSAGE_SCORE`** — Run the test suite across more questions and plot score distributions to find the threshold that best separates relevant from irrelevant passages for this knowledge base.
+
+## Implications of Retrieving Irrelevant Chunks
+
+### 1. **Fragility / Silent Failure Risk**
+
+Today the LLM happens to ignore the noise. But this is not guaranteed:
+
+- A slightly harder question, a longer context window, or a model update could cause the LLM to get confused by the irrelevant content and start incorporating wrong information
+- You already see early signs of this: **Test #5 (Disposal)** is the one case where noisy context _did_ cause a hallucination (score 0.75) — the LLM pulled in disposal details "not specified in these contexts"
+- A 100% faithfulness score on 15 tests doesn't mean it will hold at scale
+
+### 2. **Increased Latency and Cost**
+
+- Larger, noisier context = more tokens sent to the LLM per query
+- If only 11-13% of retrieved context is relevant (as in tests #6, #10, #11), you're paying for ~7-9x more tokens than needed
+- This adds up significantly at production scale
+
+### 3. **Context Window Saturation**
+
+- Every irrelevant chunk occupies space that _could_ hold additional relevant information
+- For complex or multipart questions, this becomes critical — the system may not have room for all the relevant passages it needs because the window is filled with boilerplate
+
+### 4. **Reduced Debuggability and Trust**
+
+- When something does go wrong, it's much harder to diagnose _why_ when the retrieved context is a wall of noise
+- Users or evaluators inspecting retrieved chunks will lose confidence in the system if they see revision histories and table of contents being returned for a simple definition question
+
+### 5. **Contextual Precision Cascade**
+
+- Low contextual relevancy drags down contextual precision — you already see this in tests #6 and #7 where both metrics fail
+- As you scale to harder questions, the ranking problem will get worse if the candidate pool is full of irrelevant chunks
+
+## The Bottom Line
+
+Think of it this way:
+
+|Metric|What It Tells You|Current State|
+|---|---|---|
+|Faithfulness + Answer Relevancy|"The LLM is doing its job"|✅ Strong|
+|Contextual Relevancy|"The retrieval system is doing its job"|❌ Weak|
+
+You have a **strong LLM compensating for a weak retrieval pipeline**. It works now, but it's:
+
+- **Expensive** (wasted tokens on irrelevant context)
+- **Fragile** (one hallucination failure already appeared)
+- **Non-scalable** (harder questions will break the pattern)
+
+Fixing contextual relevancy isn't about improving today's answers — it's about **making the system robust, efficient, and reliable at scale**. The 40% pass rate is a warning signal from the retrieval layer, even though the generation layer is currently masking it.
+
+Links:
+- [[Evaluation loops]]
+- [[Evaluator Paradox]]
+- [[Self-Evaluation in RAG]]
+- [[RAG Evaluation with DeepEval]]
+- [[Variability in RAG evals]]
+- [[Retrieval False Confidence]]
+- [[Vector search]]
+
+Up: [[AI Systems]]
+
+## Tags
+#ai
