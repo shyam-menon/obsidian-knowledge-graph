@@ -6,3 +6,6 @@
 .DS_Store
 Thumbs.db
 .obsidian/graph.json
+
+# Per-machine Claude Code settings
+.claude/settings.local.json
